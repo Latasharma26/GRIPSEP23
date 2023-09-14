@@ -1,5 +1,6 @@
 # GRIPSEP23
  THE SPARKS FOUNDATION TASK : BASIC BANKING SYSTEM
+ ![image](https://github.com/Latasharma26/GRIPSEP23/assets/96385877/52dea1e2-d207-448e-8348-698f2044a3af)
  ![image](https://github.com/Latasharma26/GRIPSEP23/assets/96385877/9ab38537-385b-4f5e-9f16-c764148829aa)
  ![image](https://github.com/Latasharma26/GRIPSEP23/assets/96385877/cc91dd28-1614-46cc-b013-1106f75f5da0)
  ![image](https://github.com/Latasharma26/GRIPSEP23/assets/96385877/05d1dc9b-ed98-4ebe-8cea-907af0db9e80)
